@@ -1,0 +1,20 @@
+#header{
+    background-color: cornflowerblue;
+
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+#main{
+    background-color: white;
+    width: 70%;
+    height: 400px;
+    float: left;
+}
+#right{
+    background-color: lightblue;
+    width: 30%;
+    float: left;
+    height: 400px;
+}
